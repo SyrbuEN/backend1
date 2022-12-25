@@ -1,4 +1,4 @@
-package LibraryProject;
+package Project1;
 
 import java.util.*;
 import java.util.Scanner;

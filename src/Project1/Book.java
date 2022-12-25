@@ -1,4 +1,4 @@
-package LibraryProject;
+package Project1;
 
 public class Book {
     String name;
